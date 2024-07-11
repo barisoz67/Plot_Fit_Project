@@ -8,6 +8,8 @@
 # # Ignore all .log files
 # *.log
 
-Photos/
+screenshots/
+plotfit/*
 
 plotfit_v1.py
+.DS_Store
