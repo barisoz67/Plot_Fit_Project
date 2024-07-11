@@ -1,0 +1,13 @@
+# # Ignore logs and temp directories
+# logs/
+# tmp/
+
+# # Ignore specific files
+# secret_config.txt
+
+# # Ignore all .log files
+# *.log
+
+Photos/
+
+plotfit_v1.py
